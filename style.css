@@ -7,7 +7,7 @@ body {
   grid-template-columns: 20% auto 40%;
 }
 
-#nav {
+#main {
     font-size: 14pt;
     grid-column: 1;
 }
@@ -21,4 +21,7 @@ img {
 .caption-image {
     padding: 0.5em;
     margin-bottom: 1em;
+}
+#right {
+    grid-column: 3;
 }
