@@ -1,0 +1,17 @@
+body {
+  background-color: #eeeeee;
+  padding: 1em;
+  display: grid;
+  grid-template-columns: 20% auto 10%;
+}
+
+#nav {
+    font-size: 14pt;
+    grid-column: 1;
+}
+img {
+    width: 50%;
+}
+#images {
+    grid-column: 2;
+}
