@@ -13,13 +13,13 @@ body {
     grid-column: 1;
 }
 img {
-    width: 80%;
+    width: 100%;
 }
 #main {
     grid-column: 2;
 }
 
-.caption-image {
+.captioned-image {
     padding: 0.5em;
     margin-bottom: 1em;
 }
