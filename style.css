@@ -6,7 +6,7 @@ body {
 
   padding: 1em;
   display: grid;
-  grid-template-columns: 20% auto 10%;
+  grid-template-columns: 20% auto 40%;
 }
 
 #nav {
@@ -14,7 +14,7 @@ body {
     grid-column: 1;
 }
 img {
-    width: 50%;
+    width: 80%;
 }
 #images {
     grid-column: 2;
