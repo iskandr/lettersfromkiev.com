@@ -8,14 +8,14 @@ body {
   grid-template-columns: 20% auto 40%;
 }
 
-#main {
+#nav {
 
     grid-column: 1;
 }
 img {
     width: 80%;
 }
-#images {
+#main {
     grid-column: 2;
 }
 
