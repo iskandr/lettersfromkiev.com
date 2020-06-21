@@ -1,5 +1,6 @@
 body {
     background-color: #ffeeee;
+    font-family: "freight-text-pro", "serif";
 }
 #container {
   padding: 1em;
@@ -8,7 +9,7 @@ body {
 }
 
 #main {
-    font-size: 14pt;
+    font-size: 16pt;
     grid-column: 1;
 }
 img {
