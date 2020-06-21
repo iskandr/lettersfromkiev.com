@@ -31,3 +31,5 @@ img {
     padding: 1em;
     font-size: 16pt;
 }
+
+#right img { margin-bottom: 1em; }
