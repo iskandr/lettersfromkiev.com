@@ -22,6 +22,7 @@ img {
 .captioned-image {
     padding: 0.5em;
     margin-bottom: 1em;
+    text-align: center;
 }
 #right {
     grid-column: 3;
