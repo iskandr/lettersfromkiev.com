@@ -1,5 +1,5 @@
-body {
-  background-color: #eeeeee;
+#container {
+  background-color: #ffeeee;
   padding: 1em;
   display: grid;
   grid-template-columns: 20% auto 10%;
