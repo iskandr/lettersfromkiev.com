@@ -9,7 +9,7 @@ body {
 }
 
 #main {
-    font-size: 16pt;
+
     grid-column: 1;
 }
 img {
@@ -25,4 +25,9 @@ img {
 }
 #right {
     grid-column: 3;
+}
+
+#main p {
+    padding: 1em;
+    font-size: 16pt;
 }
