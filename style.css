@@ -2,8 +2,6 @@ body {
     background-color: #ffeeee;
 }
 #container {
-  background-color: #eedddd;
-
   padding: 1em;
   display: grid;
   grid-template-columns: 20% auto 40%;
@@ -18,4 +16,9 @@ img {
 }
 #images {
     grid-column: 2;
+}
+
+.caption-image {
+    padding: 0.5em;
+    margin-bottom: 1em;
 }
