@@ -2,6 +2,14 @@ body {
     background-color: #ffeeee;
     font-family: "freight-text-pro", "serif";
 }
+
+.en {
+    padding-bottom: 1em;
+}
+
+.ru {
+    padding-bottom: 1em;
+}
 #container {
   padding: 1em;
   display: grid;
