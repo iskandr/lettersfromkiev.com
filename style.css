@@ -10,12 +10,12 @@ img {
 ul { list-style-type: none; }
 
 
-.en {
+#en {
     padding-bottom: 1em;
     border: 1px solid green;
 }
 
-.ru {
+#ru {
     padding-bottom: 1em;
     border: 1px solid red;
 }
