@@ -12,13 +12,11 @@ ul { list-style-type: none; }
 
 
 #en {
-    padding-bottom: 1em;
-    border: 1px solid green;
+    padding-bottom: 0.2em;
 }
 
 #ru {
-    padding-bottom: 1em;
-    border: 1px solid red;
+    padding-bottom: 0.2em;
 }
 
 #container {
