@@ -3,13 +3,23 @@ body {
     font-family: "freight-text-pro", "serif";
 }
 
+img {
+    width: 100%;
+}
+
+ul { list-style-type: none; }
+
+
 .en {
     padding-bottom: 1em;
+    border: 1px solid green;
 }
 
 .ru {
     padding-bottom: 1em;
+    border: 1px solid red;
 }
+
 #container {
   padding: 1em;
   display: grid;
@@ -20,9 +30,7 @@ body {
     padding-top: 1em;
     grid-column: 1;
 }
-img {
-    width: 100%;
-}
+
 #main {
     grid-column: 2;
 }
@@ -42,5 +50,3 @@ img {
 }
 
 #right img { margin-bottom: 1em; }
-
-ul { list-style-type: none; }
