@@ -12,7 +12,7 @@ img {
 
 ul { list-style-type: none; }
 li { padding-top: 0.5em; padding-bottom: 0.5em; }
-li.date { padding-left: 1em; }
+li.date { padding-left: 0.5em; }
 
 
 #en {
@@ -24,7 +24,7 @@ li.date { padding-left: 1em; }
 }
 
 .date {
-    border-left: 3px solid #999;
+    border-left: 2px solid #444;
 }
 
 #container {
