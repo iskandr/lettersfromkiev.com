@@ -1,6 +1,6 @@
 body {
     background-color: #ffeeee;
-    background-image: url("images/Dec-5-text.jpg");
+    background-image: url("www.lettersfromkiev.com/images/Dec-5-text.jpg");
     font-family: "freight-text-pro", "serif";
 }
 
@@ -28,6 +28,7 @@ ul { list-style-type: none; }
   padding: 1em;
   display: grid;
   grid-template-columns: 15% auto 45%;
+  background-color: rgba(255,255,255,.9);
 }
 
 #nav {
