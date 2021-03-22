@@ -20,6 +20,10 @@ ul { list-style-type: none; }
     padding-bottom: 0.2em;
 }
 
+.date {
+    border-left: 3px solid #999;
+}
+
 #container {
   padding: 1em;
   display: grid;
