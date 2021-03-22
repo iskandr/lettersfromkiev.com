@@ -1,6 +1,6 @@
 body {
     background-color: #ffeeee;
-    background-image: images/Dec-5-text.jpg;
+    background-image: url("images/Dec-5-text.jpg");
     font-family: "freight-text-pro", "serif";
 }
 
